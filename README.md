@@ -39,10 +39,12 @@ Minha atual jornada envolve o estudo e desenvolvimento com Flutter, um framework
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xzMatheuSx&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)![HTML5](https://img.shields.io/badge/dart-000?style=for-the-badge&logo=dart&logoColor=00499F)![FLUTTER](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=Flutter&logoColor=00499F)![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+ ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xzMatheuSx&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
