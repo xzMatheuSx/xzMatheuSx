@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 💡 Conhecimentos em HTML, JavaScript, CSS, MySQL, React
 🐧 Familiaridade com ambientes Windows e Linux
 
-📱 Atualmente focado no estudo e desenvolvimento com Flutter.
 
-📱 Foco Atual: Flutter
-Minha atual jornada envolve o estudo e desenvolvimento com Flutter, um framework open-source para criar aplicativos nativos incríveis tanto para Android quanto para iOS. Estou animado para mergulhar profundamente nesse universo e criar experiências móveis excepcionais.
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xzMatheuSx&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
