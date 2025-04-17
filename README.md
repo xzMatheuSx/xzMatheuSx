@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ## Sobre
 🎓 Estudante de Sistemas de Informação UNIUV | Centro Universitário da Cidade de União da Vitória- PR
 
-💡 Conhecimentos em HTML, JavaScript, CSS, MySQL, React
-🐧 Familiaridade com ambientes Windows e Linux
 
 
 
